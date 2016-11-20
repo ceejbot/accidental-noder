@@ -180,7 +180,7 @@ debug: making flat API call with mode:  sessiongenerate
 debug: requesting fresh challenge
 (node:87517) DeprecationWarning: util.puts is deprecated. Use console.log instead.
 (node:87517) DeprecationWarning: util.error is deprecated. Use console.error instead.
-info: Recording userpic keyword info for antennapedia
+info: Recording userpic keyword info for ceej
 info: Read cached data from userpics.json.
 debug: making flat API call with mode:  login
 ```
@@ -429,13 +429,29 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] Lesson: People are always harder than technology.
+# [fit] Lesson: my job is only __sometimes__
+# [fit] solving hard problems.
+
+---
+
+# [fit] My job is to identify the problems,
+# [fit] hand them to the right person,
+# [fit] then get out of the way
+
+---
+
+# [fit] Lesson: __People__ are harder than technology.
 
 ---
 
 ![fit](images/emotionally-safe-tweet.png)
 
-^ My most popular tweet ever is this one:
+^ My most popular tweet ever is this one. It is cold truth.
+
+---
+
+# [fit] the challenge is keeping people
+# [fit] in a place where they can do their best
 
 ---
 
@@ -445,17 +461,6 @@ debug: making flat API call with mode:  login
 ---
 
 # [fit] collaborative, constructive, curious
-
----
-
-# [fit] Lesson: my job is only __sometimes__
-# [fit] solving the problems.
-
----
-
-# [fit] My job is to identify the problems,
-# [fit] hand them to the right person,
-# [fit] then get out of the way
 
 ---
 
@@ -478,10 +483,11 @@ debug: making flat API call with mode:  login
 
 ---
 
+# [fit] going to end with a bit of a teaser
 
 
+---
 
-
-
+I care a lot about access to registry data
 
 Cool things upcoming
