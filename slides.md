@@ -123,7 +123,7 @@
 
 # [fit] woo, ruby on __rails__ + backbone!
 
-^ in 2010, 2011 this was the state of the art
+^ in 2011 this was the state of the art
 
 ---
 
@@ -399,6 +399,31 @@ debug: making flat API call with mode:  login
 
 ---
 
+# [fit] __RESTful APIs__ for registry data
+# [fit] npm's current API is a legacy mess
+
+^ I care a lot about access to registry data
+
+---
+
+# [fit] a __search__ API…
+
+---
+
+# [fit] a search API and
+# [fit] our first __React__ app in front of it
+
+---
+
+# [fit] minimal change, measure & __iterate__
+# [fit] one little slice of our web app
+
+---
+
+# [fit] if this works, we'll do more
+
+---
+
 # [fit] Lesson: __simple__ is good.
 
 ---
@@ -461,6 +486,11 @@ debug: making flat API call with mode:  login
 
 ---
 
+# [fit] performance work ongoing
+# [fit] because y'all show no signs of slowing down
+
+---
+
 # [fit] we're experimenting with __Rust__
 # [fit] for our perf hot spots
 
@@ -471,7 +501,12 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] Lesson: databases are __all__ terrible.
+# [fit] minimal change, measure & __iterate__
+# [fit] test Rust with __one__ µservice
+
+---
+
+# [fit] Lesson: __all__ databases are terrible
 
 ---
 
@@ -480,27 +515,29 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] CouchDB, Postgres, & Redis
+# [fit] corollary: your tools
+# [fit] are always terri__useful__bad
 
-^ I'd still pick these again. They each have superpowers.
+^ You feel this way most strongly about things you use most often.
 
 ---
 
 # [fit] Lesson: my job is only __sometimes__
-# [fit] solving hard problems.
+# [fit] solving hard problems
 
 ^ CTO means chiefing the technicals, right?
 
 ---
 
-# [fit] my job is to identify the __right problem__
+# [fit] my job: identify the __right problem__
 # [fit] & hand it to the __right person__
 
 ^ I then help that person evaluate possible solutions & remove obstacles to getting there.
 
 ---
 
-# [fit] Lesson: __People__ are harder than technology.
+# [fit] Lesson: __people__ are
+# [fit] harder than technology
 
 ---
 
@@ -525,15 +562,6 @@ debug: making flat API call with mode:  login
 ---
 
 # [fit] I won't know how I did until
-# [fit] I can look back, in 5 years
+# [fit] I can __look back__ in 5 years
 
----
-
-# [fit] going to end with a bit of a teaser
-
-
----
-
-I care a lot about access to registry data
-
-Cool things upcoming
+^ I can't put this into one of those charts.
