@@ -457,14 +457,46 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] Lesson: my job is only __sometimes__
-# [fit] solving hard problems.
+# [fit] Lesson: don't get __dogmatic__ about tech
 
 ---
 
-# [fit] My job is to identify the problems,
-# [fit] hand them to the right person,
-# [fit] then get out of the way
+# [fit] we're experimenting with __Rust__
+# [fit] for our perf hot spots
+
+---
+
+# [fit] because we __love__ javascript
+# [fit] but it isn't always the right choice
+
+---
+
+# [fit] Lesson: databases are __all__ terrible.
+
+---
+
+# [fit] you can only love a database
+# [fit] you've never put into __production__
+
+---
+
+# [fit] CouchDB, Postgres, & Redis
+
+^ I'd still pick these again. They each have superpowers.
+
+---
+
+# [fit] Lesson: my job is only __sometimes__
+# [fit] solving hard problems.
+
+^ CTO means chiefing the technicals, right?
+
+---
+
+# [fit] my job is to identify the __right problem__
+# [fit] & hand it to the __right person__
+
+^ I then help that person evaluate possible solutions & remove obstacles to getting there.
 
 ---
 
@@ -474,11 +506,11 @@ debug: making flat API call with mode:  login
 
 ![fit](images/emotionally-safe-tweet.png)
 
-^ My most popular tweet ever is this one. It is cold truth.
+^ My most popular tweet ever is this one. It is hot truth.
 
 ---
 
-# [fit] the challenge is keeping people
+# [fit] the __real__ challenge is keeping people
 # [fit] in a place where they can do their best
 
 ---
@@ -492,7 +524,8 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] Lesson: don't get dogmatic about tech
+# [fit] I won't know how I did until
+# [fit] I can look back, in 5 years
 
 ---
 
