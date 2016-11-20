@@ -147,7 +147,8 @@
 
 ---
 
-# [fit] javascript via V8 was __surprisingly__ fast
+# [fit] javascript was a __surprise__:
+# [fit] fast w/ first-class functions
 
 ---
 
@@ -602,7 +603,12 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] I want you to type `npm install`
+# [fit] but node is how I write __everything__
+# [fit] from twitter bots to deployment systems
+
+---
+
+# [fit] I want you to type __npm install__
 # [fit] & have packages flow like __spice__
 
 ---
