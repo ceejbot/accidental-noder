@@ -190,7 +190,7 @@ debug: making flat API call with mode:  login
 # [fit] __Voxer__: a walkie-talkie app
 # [fit] with a __100% node__ back end
 
-^ bye-bye funemployment! my first experience with devops for real
+^ bye-bye funemployment! my first experience with devops for real.  You find node everywhere now, but it was rare in 2012. I sought out voxer deliberately.
 
 ---
 
@@ -291,12 +291,14 @@ debug: making flat API call with mode:  login
 # [fit] Lesson: stable __platforms__
 # [fit] are where __ecosystems__ flourish
 
-^ As career fun goes, if all I end up contributing to node is these years of stability, it's gonna end up a high point. Other things are driving it right now, but it's building on a very solid foundation.
+^ If all I end up contributing to node is these years of stability, it's gonna end up a high point of my career. This is a fantastic job.
 
 ---
 
 # [fit] we did this with a __tiny__ team
 # [fit] 12 engineers now; half that to start
+
+^ The challenge all along has been here. In Aria's interviews yesterday somebody referred to a team of 20 people as small; that's almost the whole company for npm.
 
 ---
 
@@ -314,8 +316,14 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] I've learned more in the last 3 years
+# [fit] record-scratch noise again
+
+---
+
+# [fit] I've learned more in the last __3 years__
 # [fit] than in my entire previous career
+
+^ This is probably hyperbole, but not by much.
 
 ---
 
@@ -335,7 +343,7 @@ debug: making flat API call with mode:  login
 # [fit] __automate__ it so you don't have to
 # [fit] __think__ about it any more
 
-^ It's the only way to survive when you have 5 people and a lot of things happening.
+^ Free your mind to think about something else, something you don't know how to automate yet. Chatb
 
 ---
 
@@ -365,12 +373,38 @@ debug: making flat API call with mode:  login
 
 ---
 
+# [fit] Lesson: measure & __iterate__ ftw
+
+---
+
+![fit](images/obsessed-tweet.png)
+
+---
+
+# [fit] try new things __incrementally__
+
+---
+
+# [fit] ship a __small__ thing
+# [fit] that improves your situation
+
+---
+
+# [fit] __measure__ & observe
+# [fit] improve it incrementally
+
+---
+
+# [fit] __repeat__ until victory
+
+---
+
 # [fit] Lesson: __simple__ is good.
 
 ---
 
-# [fit] The way to be __fast__
-# [fit] is to do as __little work__ as possible
+# [fit] if you want to be __fast__
+# [fit] do as __little work__ as possible
 
 ---
 
@@ -423,12 +457,6 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] the dev ops mindset
-# [fit] puts the longing for toys & the decision
-# [fit] about when to use them in the same place
-
----
-
 # [fit] Lesson: my job is only __sometimes__
 # [fit] solving hard problems.
 
@@ -461,21 +489,6 @@ debug: making flat API call with mode:  login
 ---
 
 # [fit] collaborative, constructive, curious
-
----
-
----
-
-# [fit] Lesson: dogged __iteration__ ftw!
-
----
-
-![fit](images/obsessed-tweet.png)
-
----
-
-# [fit] do the minimal thing that makes your situation better
-# [fit] make it better, repeat
 
 ---
 
