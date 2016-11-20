@@ -128,13 +128,13 @@
 ---
 
 # [fit] ruby is too __slow__
-# [fit] I need work queues! fast ones!
+
+^ I need work queues! fast ones!
 
 ---
 
 # [fit] __node 0.4__
-# [fit] it claims to be fast
-# [fit] & people call it hipster
+# [fit] allegedly fast & v hipster
 
 ^ How could I resist!
 
@@ -147,6 +147,10 @@
 
 ---
 
+# [fit] javascript via V8 was __surprisingly__ fast
+
+---
+
 # [fit] __npm__ existed but was different
 # [fit] you found modules by reading a __wiki page__
 
@@ -154,8 +158,12 @@
 
 ---
 
+![fit](images/module-list-with-npm.png)
+
+---
+
 # [fit] docs were __terrible__
-# [fit] it was changing constantly
+# [fit] I had to learn by reading source
 
 ---
 
@@ -229,6 +237,12 @@ debug: making flat API call with mode:  login
 
 ---
 
+![fit](images/spice_must_flow.jpg)
+
+^ The packages must flow
+
+---
+
 # [fit] we got it __stable__ then we
 # [fit] rewrote it & made it __fast__
 
@@ -236,12 +250,14 @@ debug: making flat API call with mode:  login
 
 # [fit] __2014__ was a good year for node
 
-^ There are two things that contributed to the explosion of node in 2014.
+^ There will be only a handful of you here who were using node before 2014, I think.
 
 ---
 
 # [fit] node __0.10__ was stable
 # [fit] __npm__ became stable
+
+^ There are two things that contributed to the explosion of node in 2014.
 
 ---
 
@@ -285,6 +301,8 @@ debug: making flat API call with mode:  login
 # [fit] you install from npm
 # [fit] __thoughtlessly__
 # [fit] & this is awesome
+
+^ The spice is flowing!
 
 ---
 
@@ -352,7 +370,7 @@ debug: making flat API call with mode:  login
 ---
 
 # [fit] if you can't observe your software
-# [fit] you have no idea what it's doing
+# [fit] you have __no idea__ what it's doing
 
 ---
 
@@ -399,28 +417,32 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] __RESTful APIs__ for registry data
-# [fit] npm's current API is a legacy mess
-
-^ I care a lot about access to registry data
+# [fit] here's a concrete example:
+# [fit] npm's current API is a legacy __mess__
 
 ---
 
-# [fit] a __search__ API…
+# [fit] want to replace it all with
+# [fit] __RESTful APIs__ for registry data
+
+^ But this is a giant problem-- our API surface is large
 
 ---
 
 # [fit] a search API and
 # [fit] our first __React__ app in front of it
 
----
-
-# [fit] minimal change, measure & __iterate__
-# [fit] one little slice of our web app
+^ We're sitting right on a new search API (if you search on our website now you'll notice this)
 
 ---
 
-# [fit] if this works, we'll do more
+# [fit] minimal change, measure & iterate
+# [fit] one little __slice__ of the problem
+
+---
+
+# [fit] if this works, we'll do it again
+# [fit] __repeat__ until victory
 
 ---
 
@@ -486,7 +508,7 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] performance work ongoing
+# [fit] performance work __ongoing__
 # [fit] because y'all show no signs of slowing down
 
 ---
@@ -503,6 +525,8 @@ debug: making flat API call with mode:  login
 
 # [fit] minimal change, measure & __iterate__
 # [fit] test Rust with __one__ µservice
+
+^ Once again, the minimal change & iterate approach works here
 
 ---
 
@@ -565,3 +589,24 @@ debug: making flat API call with mode:  login
 # [fit] I can __look back__ in 5 years
 
 ^ I can't put this into one of those charts.
+
+---
+
+# [fit] node is __still__ the most fun
+# [fit] I've had writing code
+
+---
+
+# [fit] I __hate__ it, of course,
+# [fit] because we __always__ hate our tools
+
+---
+
+# [fit] I want you to type `npm install`
+# [fit] & have packages flow like __spice__
+
+---
+
+# [fit] npm ❤️ you
+
+^ I'm off to ride a sandworm.
