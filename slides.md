@@ -75,7 +75,9 @@
 
 ---
 
-# [fit] let's wander back in __time__
+![fit left](images/tardis-controls.gif)
+
+# [fit] let's go back in __time__
 
 ---
 
@@ -84,7 +86,7 @@
 
 ---
 
-# [fit] think of me glaring next time you say
+# [fit] imagine me glaring next time somebody says
 # [fit] __your mom__ could do something
 
 ---
@@ -297,15 +299,17 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] npm's __cli & registry__ do their thing
-
----
-
 # [fit] you install from npm
 # [fit] __thoughtlessly__
 # [fit] & this is awesome
 
 ^ The spice is flowing!
+
+---
+
+![fit](images/twelve-brushes-himself-off.gif)
+
+^ npm's __cli & registry__ do their thing
 
 ---
 
@@ -436,6 +440,10 @@ debug: making flat API call with mode:  login
 # [fit] our first __React__ app in front of it
 
 ^ We're sitting right on a new search API (if you search on our website now you'll notice this)
+
+---
+
+![fit](images/search-live.mp4)
 
 ---
 
