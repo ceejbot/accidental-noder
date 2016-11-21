@@ -18,9 +18,9 @@
 ---
 
 # [fit] the __accidental__ noder
-## [fit] C J Silverio, CTO, __@ceejbot__
+## [fit] C J Silverio, __@ceejbot__
 
-^ You had Laurie Voss here last year. He was our CTO then, but as you know, there can be only one. I cut off his head in single combat in a Highlander deal & now I'm CTO.
+^ I'm npm's current CTO. You had Laurie Voss here last year. He was our CTO then, but as you know, there can be only one. I cut off his head in single combat in a Highlander deal & now I'm CTO.
 
 ---
 
@@ -150,6 +150,8 @@
 # [fit] javascript was a __surprise__:
 # [fit] fast w/ first-class functions
 
+^ First-class functions means you can do some real stuff with it!
+
 ---
 
 # [fit] __npm__ existed but was different
@@ -245,7 +247,7 @@ debug: making flat API call with mode:  login
 ---
 
 # [fit] we got it __stable__ then we
-# [fit] rewrote it & made it __fast__
+# [fit] rewrote it in node & made it __scale__
 
 ---
 
@@ -610,6 +612,8 @@ debug: making flat API call with mode:  login
 
 # [fit] I want you to type __npm install__
 # [fit] & have packages flow like __spice__
+
+^ Completely thoughtlessly.
 
 ---
 
