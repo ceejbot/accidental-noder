@@ -13,7 +13,7 @@
 ---
 
 # [fit] with the occasional __juicy hint__
-# [fit] about upcoming fun things
+# [fit] about upcoming npm projects
 
 ---
 
@@ -34,10 +34,14 @@
 # [fit] and the __systems__ they build
 # [fit] are under my __care__
 
+^ And I mean the connotations of that word.
+
 ---
 
 # [fit] where they are __now__ &
 # [fit] where they're going __next__
+
+^ responsible for; gonna break that down now
 
 ---
 
@@ -61,6 +65,11 @@
 ---
 
 # [fit] record-scratch noise
+
+---
+
+# [fit] Woo. What a job.
+# [fit] How many times have I done this before?
 
 ---
 
@@ -131,7 +140,7 @@
 
 # [fit] ruby is too __slow__
 
-^ I need work queues! fast ones!
+^ I needed work queues! fast ones!
 
 ---
 
@@ -164,6 +173,8 @@
 ---
 
 ![fit](images/module-list-with-npm.png)
+
+^ point out several competing package managers
 
 ---
 
@@ -270,7 +281,7 @@ debug: making flat API call with mode:  login
 
 ![inline](images/10-million-daily-record.png)
 
-^ 10,204,076
+^ 10 million in 1 day
 
 ---
 
@@ -278,7 +289,7 @@ debug: making flat API call with mode:  login
 
 ![inline](images/286-million-record.png)
 
-^ We're now serving as many packages in an hour as we used to in an entire day.
+^ 286 million in 1 day. We're now serving as many packages in an hour as we used to in an entire day.
 
 ---
 
@@ -332,6 +343,10 @@ debug: making flat API call with mode:  login
 
 ---
 
+![fit](images/kepttoyourself.gif)
+
+---
+
 # [fit] Lesson: I probably didn't.
 # [fit] But I could __learn__.
 
@@ -358,6 +373,8 @@ debug: making flat API call with mode:  login
 
 # [fit] Lesson: __automate__ everything
 
+^ Chatbots to roll out infrastructure, tools to build things, any routine task: write a tool to do it for you.
+
 ---
 
 # [fit] you're a __programmer__, right?
@@ -368,7 +385,7 @@ debug: making flat API call with mode:  login
 # [fit] __automate__ it so you don't have to
 # [fit] __think__ about it any more
 
-^ Free your mind to think about something else, something you don't know how to automate yet. Chatb
+^ Free your mind to think about something else, something you don't know how to automate yet.
 
 ---
 
@@ -378,6 +395,8 @@ debug: making flat API call with mode:  login
 
 # [fit] if you can't observe your software
 # [fit] you have __no idea__ what it's doing
+
+^ This is not something only operations people care about! You're a software engineer! You care about what your code is doing! So make it tell you.
 
 ---
 
@@ -427,12 +446,14 @@ debug: making flat API call with mode:  login
 # [fit] here's a concrete example:
 # [fit] npm's current API is a legacy __mess__
 
+^ it was built when the registry ran inside couchdb; it's very strange
+
 ---
 
 # [fit] want to replace it all with
 # [fit] __RESTful APIs__ for registry data
 
-^ But this is a giant problem-- our API surface is large
+^ But this is a giant problem-- our API surface is large & a lot of people use it
 
 ---
 
@@ -464,6 +485,8 @@ debug: making flat API call with mode:  login
 # [fit] if you want to be __fast__
 # [fit] do as __little work__ as possible
 
+^ This is the wisdom imparted by programmer who wrote grep in "Why GNU grep is fast"
+
 ---
 
 # [fit] make data __immutable__
@@ -480,7 +503,7 @@ debug: making flat API call with mode:  login
 
 # [fit] the devops __skillset__ is huge
 
-^ This is hard.
+^ This is hard. so many things to know
 
 ---
 
@@ -543,6 +566,8 @@ debug: making flat API call with mode:  login
 
 # [fit] Lesson: __all__ databases are terrible
 
+^ all of them
+
 ---
 
 # [fit] you can only love a database
@@ -553,7 +578,14 @@ debug: making flat API call with mode:  login
 # [fit] corollary: your tools
 # [fit] are always terri__useful__bad
 
-^ You feel this way most strongly about things you use most often.
+^ You always hate the things you use most often, while loving them.
+
+---
+
+# [fit] now for some harder problems…
+# [fit] the __non-technical__ problems
+
+^ let's switch modes to the harder problems.
 
 ---
 
@@ -599,7 +631,7 @@ debug: making flat API call with mode:  login
 # [fit] I won't know how I did until
 # [fit] I can __look back__ in 5 years
 
-^ I can't put this into one of those charts.
+^ I can't put this into one of those charts. Did I succeed in doing it? Does anybody else like working in the environment I like working in?
 
 ---
 
@@ -625,6 +657,6 @@ debug: making flat API call with mode:  login
 
 ---
 
-# [fit] npm ❤️ you
+![left](images/doctor_bye.gif)
 
-^ I'm off to ride a sandworm.
+# [fit] npm ❤️ you
